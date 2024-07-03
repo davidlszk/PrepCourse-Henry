@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-es para el prep mod 2
+    Este proyecto es una prueba
